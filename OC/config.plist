@@ -1201,7 +1201,7 @@
 			<key>ActivateHpetSupport</key>
 			<true/>
 			<key>DisableSecurityPolicy</key>
-			<false/>
+			<true/>
 			<key>EnableVectorAcceleration</key>
 			<false/>
 			<key>EnableVmx</key>
