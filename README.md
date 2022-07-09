@@ -1,10 +1,8 @@
 # Tiger Lake hackintosh with OpenCore | Thinkpad E14 Gen2
 
-Made by Tony Smith,Test by OldGodShen
+Modified by Tony Smith,Test by OldGodShen
 
-Original OpenCore:https://github.com/deniro98/hackintosh-asus-zenbook-duo-ux482ea
-
-Let's start create Hackintosh with OpenCore on Intel 11th Gen!
+Original Repo:https://github.com/deniro98/hackintosh-asus-zenbook-duo-ux482ea
 
 # System specification
 
