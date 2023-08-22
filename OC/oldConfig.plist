@@ -1186,7 +1186,7 @@
                 <integer>0</integer>
             </dict>
             <key>ConnectDrivers</key>
-            <false/>
+            <true/>
             <key>Drivers</key>
             <array>
                 <dict>
@@ -1231,7 +1231,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
